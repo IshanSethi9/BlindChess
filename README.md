@@ -37,6 +37,7 @@ This project is under the MIT License.
 ## Authors
 
 [Kushagra Gupta](https://github.com/KG-1510)
+
 [Ishan Sethi](https://github.com/IshanSethi9)
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ishansethi09/)
