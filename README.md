@@ -23,7 +23,7 @@ P.S: If you are unable to open the code from the given Jupyter noebook file, cli
 
 ## Input and Output
 
-Speak your desired moves, first the intiial block, followed by the final block. A matrix of chess board is also printed on the console screen for the ease of the user. Any illegal move or a wrong speech input will require to give the speech command again. All the moves you make will be represented on the GUI board (opens in a separate window)
+Speak your desired moves, first the intial block, followed by the final block. A matrix of chess board is also printed on the console screen for the ease of the user. Any illegal move or a wrong speech input will require to give the speech command again. All the moves you make will be represented on the GUI board (opens in a separate window)
 
 ## Built With
 
