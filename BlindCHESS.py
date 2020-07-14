@@ -30,8 +30,6 @@ def takeCommand():
         print("Recognizing...")
         query=r.recognize_google(audio)
         print("You said: ", query)
-        #querys = str(query)
-        #print(query)
         return query
         
     except Exception as e:
